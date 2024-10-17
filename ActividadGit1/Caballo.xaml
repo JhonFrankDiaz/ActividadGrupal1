@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ActividadGit1.Caballo"
+             Title="Caballo">
+    <ScrollView>
+        <StackLayout>
+            <Label Text="El caballo andaluz es una raza de caballo originaria de Andalucía. Se trata de un caballo ibérico de tipo barroco que está entre las razas equinas más antiguas del mundo. En España también se le conoce comúnmente como caballo español y se le denomina oficialmente Pura Raza Española (PRE), porque se considera que el andaluz es el caballo español por antonomasia, a pesar de que existen muchas otras razas equinas españolas. Sin embargo en la mayoría de países recibe el nombre de caballo andaluz.​ El caballo cartujano es una de las líneas de cría más importantes de esta raza."
+               VerticalOptions="Center"
+               HorizontalOptions="Center" />
+        </StackLayout>
+    </ScrollView>
+</ContentPage>
